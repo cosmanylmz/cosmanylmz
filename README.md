@@ -21,6 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmanylmz&" alt="cosmanylmz" /></p>
 
+## Contributions
 ![Snake animation](https://raw.githubusercontent.com/cosmanylmz/cosmanylmz/output/github-contribution-grid-snake-dark.svg)
 
 
