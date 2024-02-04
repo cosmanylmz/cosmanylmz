@@ -21,7 +21,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmanylmz&" alt="cosmanylmz" /></p>
 
-
+## Snake animation
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 ## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/cosmanylmz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cosmanylmz" height="30" width="40" /></a>
