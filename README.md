@@ -3,9 +3,9 @@
 
 <h3 align="center">I am a passionate computer engineer who likes to follow up-to-date technologies. If you review my projects, you can give me feedback.</h3>
 
-- 🔭 I’m currently working on **my portfolio website.**
+- 🔭 I’m currently working on **Machine learning and Artificial Intelligence.**
 
-- 🌱 I’m currently learning **machine learning ,artificial intelligence ,webs sockets and backend technologies.**
+- 🌱 I’m currently learning **machine learning ,artificial intelligence ,web sockets and backend technologies.**
 
 - 📫 How to reach me **cosmanylmz@gmail.com**
 
@@ -16,8 +16,8 @@
 ## Statistics
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmanylmz&show_icons=true&locale=en&layout=compact" alt="cosmanylmz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmanylmz&show_icons=true&locale=en" alt="cosmanylmz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmanylmz&" alt="cosmanylmz" /></p>
 
