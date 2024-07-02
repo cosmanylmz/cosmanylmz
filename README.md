@@ -3,9 +3,9 @@
 
 <h3 align="center">I am a passionate computer engineer who likes to follow up-to-date technologies. If you review my projects, you can give me feedback.</h3>
 
-- 🔭 I’m currently working on **Machine learning and Artificial Intelligence.**
+- 🔭 I’m currently working on **Kotlin and Android Development with using Machine learning and Artificial Intelligence.**
 
-- 🌱 I’m currently learning **machine learning ,artificial intelligence ,web sockets and backend technologies.**
+- 🌱 I’m currently learning **Kotlin, Jetpack Compose, Web Scraping & Data Extraction , Machine Learning .**
 
 - 📫 How to reach me **cosmanylmz@gmail.com** 
  
